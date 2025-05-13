@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/4906d1e3-bc1d-493d-b11b-0647d2dc69c6
 Available in both French and English.
 
 ## How to use
-- Download "Convert.workflow", open it and install the quick action
+- [Download](https://github.com/42ur/universal-converter/raw/refs/heads/main/Convert.workflow.zip) "Convert.workflow", open it and install the quick action
 - Make sure that you have magick, ffmpeg, pandoc and fontforge installed!
   - If you don't have [Homebrew](https://www.brew.sh), install it by running `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
   - Install the required dependencies by running `brew install ffmpeg imagemagick pandoc fontforge`
