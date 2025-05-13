@@ -11,3 +11,5 @@ https://github.com/user-attachments/assets/4906d1e3-bc1d-493d-b11b-0647d2dc69c6
   - If you don't have [Homebrew](https://www.brew.sh), install it by running `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
   - Install the required dependencies by running `brew install ffmpeg imagemagick pandoc fontforge`
 - Right-click a file in the Finder, go to "Quick actions" and click "Convert"
+
+Feel free to fork this project, to report any bug and to suggest enhancements! This project is a very simple one and i'm still kinda a beginner, I'll be happy to hear your thoughts.
